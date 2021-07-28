@@ -1,17 +1,26 @@
 ### Hi there, welcome to my gitHub  👋
+
+------
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3F57F7&lines=I'm+Lucilene,+Qa+engineer)](https://git.io/typing-svg)
+
+
  
-  
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucilene-martins-629a5021/?locale=en_US)](https://www.linkedin.com/in/lucilene-martins-629a5021/?locale=en_US)
  
- I'm Lucilene Martins </br>  
+   
+
  
- <img src=AREmoji_20210612_200022_1066.gif width="200" height="200">
  
- </br>
- 
+ ----
+ ✨ About me...
+
  - ❤️ I love be QA engineer 
- - 🌱 I’m currently learning javascript
- 
+ - 🌱 I’m currently learning javascript    
+ - 🤔 My interests are tests automation web, api test , integration test  and talk more about agile testing and process.        
+                                                    
+
+  ----
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucileneMartins&show_icons=true&theme=radical)
 
 
