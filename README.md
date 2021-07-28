@@ -1,8 +1,10 @@
 ### Hi there 👋
  
- Welcome to my gitHub
+ Welcome to my gitHub 
  
- My Name is Lucilene Martins and I'm QA engineer
+ My Name is Lucilene Martins 
+ - ❤️ I love be QA engineer 
+ - 🌱 I’m currently learning javascript
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucileneMartins)](https://github.com/anuraghazra/github-readme-stats)
 
