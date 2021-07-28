@@ -5,12 +5,14 @@
  My Name is Lucilene Martins </br>  
  <img src=AREmoji_20210612_200022_1066.gif width="200" height="200">
  
- </br><br>
+ </br>
  
  - ❤️ I love be QA engineer 
  - 🌱 I’m currently learning javascript
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucileneMartins)](https://github.com/anuraghazra/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucileneMartins&show_icons=true&theme=radical)
+
+
 
 
 
