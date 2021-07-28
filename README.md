@@ -2,7 +2,11 @@
  
  Welcome to my gitHub 
  
- My Name is Lucilene Martins 
+ My Name is Lucilene Martins </br>  
+ <img src=AREmoji_20210612_200022_1066.gif width="200" height="200">
+ 
+ </br><br>
+ 
  - ❤️ I love be QA engineer 
  - 🌱 I’m currently learning javascript
  
