@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there, welcome to my gitHub  👋
  
- Welcome to my gitHub 
+  
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucilene-martins-629a5021/?locale=en_US)](https://www.linkedin.com/in/lucilene-martins-629a5021/?locale=en_US)
  
- My Name is Lucilene Martins </br>  
+ I'm Lucilene Martins </br>  
+ 
  <img src=AREmoji_20210612_200022_1066.gif width="200" height="200">
  
  </br>
