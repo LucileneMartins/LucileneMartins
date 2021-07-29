@@ -1,8 +1,7 @@
 ### Hi there, welcome to my gitHub  👋
 
 ------
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3F57F7&lines=I'm+Lucilene,+Qa+engineer)](https://git.io/typing-svg)
+<img src=AREmoji_20210612_200022_1066.gif width="75" height="75">
 
 
  
