@@ -1,4 +1,4 @@
-### Welcome 👋
+### Hi I'm Lucilene, Welcome 👋
 
 
 <img src=Lucy_degrade.gif width="100%" height="50%">
