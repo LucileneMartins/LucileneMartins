@@ -1,10 +1,11 @@
 ### Hi there, welcome to my gitHub  👋
 
-------
+
 <img src=AREmoji_20210612_200022_1066.gif width="75" height="75">
 
  ----
  ✨ <b>About me...</b>
+ 
 
  - ❤️ I love be QA engineer 
  - 🌱 I’m currently learning javascript    
@@ -13,8 +14,10 @@
 ---
 ✨ <b>Contact to me ...</b>
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucilene-martins-629a5021/?locale=en_US)](https://www.linkedin.com/in/lucilene-martins-629a5021/?locale=en_US)
- 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucilene-martins-629a5021/?locale=en_US)](https://www.linkedin.com/in/lucilene-martins-629a5021/?locale=en_US) 
+
+
  
  ----
 ✨ <b> Languages & Tools</b></br>
