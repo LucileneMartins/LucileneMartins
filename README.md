@@ -1,7 +1,7 @@
 ### Welcome 👋
 
 
-<img src=Lucy_degrade.gif width="1000" height="500">
+<img src=Lucy_degrade.gif width="100%" height="50%">
 
 
  ###  ✨ <b>About me...</b>. 
