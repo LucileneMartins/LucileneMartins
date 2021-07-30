@@ -1,7 +1,7 @@
 ### Hi there, welcome to my gitHub  👋
 
 
-<img src=AREmoji_20210612_200022_1066.gif width="75" height="75">
+<img src=Lucy.gif width="75" height="75">
 
  ----
  ✨ <b>About me...</b>
