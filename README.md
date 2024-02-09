@@ -29,7 +29,7 @@
 ### ✨ <b>Status</b> </br>
 
 
- ![Anurag's GitHub stats](https://github-readme-stats-a2at-lucilenemartins.vercel.app/api?username=LucileneMartins&show_icons=true&theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats-a2at-lucilenemartins.vercel.app/api?username=(https://github-readme-stats.vercel.app/api?username=[your username])LucileneMartins&show_icons=true&theme=radical)
 
 ---
 
