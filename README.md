@@ -1,7 +1,7 @@
 ### Hi I'm Lucilene, Welcome 👋
 
 
-<img src=Copy of Lucy.gif width="100%" height="50%">
+<img src=new_photo_canva_lucy.gif width="100%" height="50%">
 
 
  ###  ✨ <b>About me...</b>. 
